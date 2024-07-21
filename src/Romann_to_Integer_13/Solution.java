@@ -30,7 +30,6 @@ public class Solution {
         }
         // Cộng toàn bộ giá trị bên trái với số cuối cùng
         ans += map.get(arr[arr.length - 1]);
-
         return ans;
     }
 
