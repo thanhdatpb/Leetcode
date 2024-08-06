@@ -4,7 +4,8 @@ Bạn có thể theo dõi cụ thể hơn về vấn đề của từng Solution
 https://leetcode.com/u/thanhdatpb/
 
 Giao diện khi bạn vào link trên như sau:
-![image](https://github.com/user-attachments/assets/d721f71a-cee9-4fba-9e4f-e798d938aa0e)
+![image](https://github.com/user-attachments/assets/1ffb2ac2-29f4-4b68-b19e-07fa3519b676)
+
 
 Bạn cũng có thể tìm kiếm Solution 1 cách nhanh chóng qua STT của Description:
 ![image](https://github.com/user-attachments/assets/a1143231-4fbd-4c89-81f7-71778d8ef7e9)
