@@ -1,6 +1,6 @@
 # SOLUTION IN MY LEETCODE
 
-Bạn có thể theo dõi cụ thể hơn về vấn đề của từng Solution qua trang web:
+Bạn có thể theo dõi cụ thể hơn về Description của từng Solution qua trang web:
 https://leetcode.com/u/thanhdatpb/
 
 Giao diện khi bạn vào link trên như sau:
