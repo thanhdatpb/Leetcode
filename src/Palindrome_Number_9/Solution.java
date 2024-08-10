@@ -13,10 +13,10 @@ public class Solution {
             return false;
         }
         else{
-            // khoi tao y la so sau khi dao x
+            // Khởi tạo y là số sau khi đảo x
             int y = 0, original;
             original = x;
-            //dung vong lap dao x
+            // Đảo x
             for (; x != 0; x /= 10) {
                 int digit = x % 10;
                 y  = y * 10 + digit;
