@@ -15,7 +15,6 @@ public class Solution {
             sb.append(carry % 2);
             carry /= 2;
         }
-
         return sb.reverse().toString();
     }
 }

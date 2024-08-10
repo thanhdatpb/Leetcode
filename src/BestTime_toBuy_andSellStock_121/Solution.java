@@ -10,7 +10,6 @@ public class Solution {
             sellOne = Math.max(sellOne, holdOne + price);
             holdOne = Math.max(holdOne, -price);
         }
-
         return sellOne;
     }
 }

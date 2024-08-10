@@ -15,6 +15,7 @@ public class Solution {
                 stack.push(']');
             else if (stack.isEmpty() || stack.pop() != c)
                 return false;
+
         return stack.isEmpty();
     }
 }

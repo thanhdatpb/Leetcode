@@ -8,8 +8,7 @@ public class Solution {
         return ans;
     }
 
-    private boolean ans = true;
-
+    public boolean ans = true;
     public int maxDepth(TreeNode root) {
         if (root == null || !ans)
             return 0;
