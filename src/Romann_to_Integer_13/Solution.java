@@ -9,7 +9,6 @@ public class Solution {
         Map<Character, Integer> map = new HashMap<>();
 
         char[] arr = s.toCharArray();
-
         map.put('I', 1);
         map.put('V', 5);
         map.put('X', 10);
