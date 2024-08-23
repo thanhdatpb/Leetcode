@@ -20,7 +20,6 @@ public class Solution {
             ans.add(root.val);
             root = root.right;
         }
-
         return ans;
     }
 }
