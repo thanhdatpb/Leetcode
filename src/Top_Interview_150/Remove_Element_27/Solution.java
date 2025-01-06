@@ -1,4 +1,4 @@
-package Remove_Element_27;
+package Top_Interview_150.Remove_Element_27;
 
 public class Solution {
     public int removeElement(int[] nums, int val) {
