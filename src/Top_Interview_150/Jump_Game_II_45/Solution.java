@@ -13,9 +13,9 @@ public class Solution {
                 ++ans;
                 break;
             }
-            if (i == end) {   // Visited all the items on the current level.
-                ++ans;          // Increment the level.
-                end = farthest; // Make the queue size for the next level.
+            if (i == end) {
+                ++ans;
+                end = farthest;
             }
         }
 
