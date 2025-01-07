@@ -1,4 +1,4 @@
-package Remove_Duplicates_from_Sorted_Array_26;
+package Top_Interview_150.Remove_Duplicates_from_Sorted_Array_26;
 
 public class Solution {
     public int removeDuplicates(int[] nums) {
