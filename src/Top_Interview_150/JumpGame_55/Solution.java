@@ -1,4 +1,4 @@
-package JumpGame_55;
+package Top_Interview_150.JumpGame_55;
 
 public class Solution {
     public boolean canJump(int[] nums) {
