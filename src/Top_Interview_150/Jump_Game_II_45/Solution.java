@@ -6,7 +6,6 @@ public class Solution {
         int end = 0;
         int farthest = 0;
 
-        // Start an implicit BFS.
         for (int i = 0; i < nums.length - 1; ++i) {
             farthest = Math.max(farthest, i + nums[i]);
             if (farthest >= nums.length - 1) {
