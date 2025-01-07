@@ -1,4 +1,4 @@
-package ClimbingStairs_70;
+package Top_Interview_150.ClimbingStairs_70;
 
 public class Solution {
     public int climbStairs(int n) {
