@@ -1,4 +1,4 @@
-package Find_the_Index_28;
+package SymmetricTree_101.Find_the_Index_28;
 
 public class Solution {
     public int strStr(String haystack, String needle) {
