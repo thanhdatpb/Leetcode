@@ -1,6 +1,6 @@
 package RemoveDuplicatesFromSortedList_83;
 
-import AddTwoNumbers_2.ListNode;
+import Top_Interview_150.AddTwoNumbers_2.ListNode;
 
 public class Solution {
     public ListNode deleteDuplicates(ListNode head) {
